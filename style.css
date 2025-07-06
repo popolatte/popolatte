@@ -1,12 +1,12 @@
-    body{
-      background-color: rgb(237, 236, 211);/*背景色*/
-      font-family: Arial, Helvetica, sans-serif;/*フォント*/
-      text-align: center;/*中央*/
-    }
-    h1{
-      color: rgb(11, 186, 11);/*見出し色*/
-    }
-    p{
-      color: darkgrey;/*段落色*/
-      font-size: 18px;/*文字サイズ*/
-    }
+body{
+  background-color: rgb(237, 236, 211);/*背景色*/
+  font-family: Arial, Helvetica, sans-serif;/*フォント*/
+  text-align: center;/*中央*/
+}
+h1{
+  color: rgb(11, 186, 11);/*見出し色*/
+}
+p{
+  color: darkgrey;/*段落色*/
+  font-size: 18px;/*文字サイズ*/
+}
